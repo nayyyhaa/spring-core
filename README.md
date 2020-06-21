@@ -18,4 +18,4 @@ Just as in OO we deal with objects, in AOP we deal with aspects. Aspects are cro
 
 ## Spring is light weight
 Spring supports layered Architecture, and it is composed of many modules. Spring community has divided the
-modules in such a way that modules are independent of each other except the core module. So according to your requirement you can learn a particular module, you don’t need to learn the complete framework ,for example if you want to develop a java application, choose
+modules in such a way that modules are independent of each other except the core module. So according to your requirement you can learn a particular module, you don’t need to learn the complete framework ,for example if you want to develop a java application, choose only that module.
